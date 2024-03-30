@@ -1,0 +1,38 @@
+Category: Science and Engineering Practices
+  Standard Asking Questions and Defining Problems:
+  Standard HS-LS3-1:
+    - Ask questions that arise from examining models or a theory to clarify relationships. (HS-LS3-1)
+  Standard Analyzing and Interpreting Data:
+  Standard HS-LS3-3:
+    - Apply concepts of statistics and probability (including determining function fits to data, slope, intercept, and correlation coefficient for linear fits) to scientific and engineering questions and problems, using digital tools when feasible. (HS-LS3-3)
+  Standard Engaging in Argument from Evidence:
+  Standard HS-LS3-2:
+    - Make and defend a claim based on evidence about the natural world that reflects scientific knowledge, and student-generated evidence. (HS-LS3-2)
+----------------------------------------
+Category: Disciplinary Core Ideas
+  Standard LS1.A: Structure and Function:
+  Standard HS-LS3-1:
+    - All cells contain genetic information in the form of DNA molecules. Genes are regions in the DNA that contain the instructions that code for the formation of proteins. (secondary to HS-LS3-1) (Note: This Disciplinary Core Idea is also addressed by HS-LS1-1.)
+    - Each chromosome consists of a single very long DNA molecule, and each gene on the chromosome is a particular segment of that DNA. The instructions for forming species’ characteristics are carried in DNA. All cells in an organism have the same genetic content, but the genes used (expressed) by the cell may be regulated in different ways. Not all DNA codes for a protein; some segments of DNA are involved in regulatory or structural functions, and some have no as-yet known function. (HS-LS3-1)
+  Standard LS3.A: Inheritance of Traits:
+  Standard LS3.B: Variation of Traits:
+  Standard HS-LS3-2:
+    - In sexual reproduction, chromosomes can sometimes swap sections during the process of meiosis (cell division), thereby creating new genetic combinations and thus more genetic variation. Although DNA replication is tightly regulated and remarkably accurate, errors do occur and result in mutations, which are also a source of genetic variation. Environmental factors can also cause mutations in genes, and viable mutations are inherited. (HS-LS3-2)
+    - Environmental factors also affect expression of traits, and hence affect the probability of occurrences of traits in a population. Thus the variation and distribution of traits observed depends on both genetic and environmental factors. (HS-LS3-2),(HS-LS3-3)
+  Standard HS-LS3-3:
+    - Environmental factors also affect expression of traits, and hence affect the probability of occurrences of traits in a population. Thus the variation and distribution of traits observed depends on both genetic and environmental factors. (HS-LS3-2),(HS-LS3-3)
+----------------------------------------
+Category: Crosscutting Concepts
+  Standard Cause and Effect:
+  Standard HS-LS3-1:
+    - Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects. (HS-LS3-1),(HS-LS3-2)
+  Standard HS-LS3-2:
+    - Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects. (HS-LS3-1),(HS-LS3-2)
+  Standard Scale, Proportion, and Quantity:
+  Standard HS-LS3-3:
+    - Algebraic thinking is used to examine scientific data and predict the effect of a change in one variable on another (e.g., linear growth vs. exponential growth). (HS-LS3-3)
+    - Technological advances have influenced the progress of science and science has influenced advances in technology. (HS-LS3-3)
+    - Science and engineering are influenced by society and society is influenced by science and engineering. (HS-LS3-3)
+  Standard Connections to Nature of Science:
+  Standard Science is a Human Endeavor:
+----------------------------------------
