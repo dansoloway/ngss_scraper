@@ -11,12 +11,17 @@ def save_content_to_file(file_name, content):
         file.write(str(content))
     print(f"File '{file_name}' saved successfully.")
 
-
 def main(target_url):
     response = requests.get(target_url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
         
+        # New block to handle 'page-header'
+        page_header = soup.find(class_="page-header")
+        if page_header:
+            header_text = page_header.get_text(strip=True)
+            save_content_to_file('date_header.txt', header_text)
+
         rows2 = soup.find_all(class_="row2")
         rows3 = soup.find_all(class_="row3")
 

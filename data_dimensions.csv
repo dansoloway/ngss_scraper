@@ -1,14 +1,5 @@
 standard,category,description
-HS-LS3-1,Science and Engineering Practices,Ask questions that arise from examining models or a theory to clarify relationships. (HS-LS3-1)
-HS-LS3-3,Science and Engineering Practices,"Apply concepts of statistics and probability (including determining function fits to data, slope, intercept, and correlation coefficient for linear fits) to scientific and engineering questions and problems, using digital tools when feasible. (HS-LS3-3)"
-HS-LS3-2,Science and Engineering Practices,"Make and defend a claim based on evidence about the natural world that reflects scientific knowledge, and student-generated evidence. (HS-LS3-2)"
-HS-LS3-1,Disciplinary Core Ideas,All cells contain genetic information in the form of DNA molecules. Genes are regions in the DNA that contain the instructions that code for the formation of proteins. (secondary to HS-LS3-1) (Note: This Disciplinary Core Idea is also addressed by HS-LS1-1.)
-HS-LS3-1,Disciplinary Core Ideas,"Each chromosome consists of a single very long DNA molecule, and each gene on the chromosome is a particular segment of that DNA. The instructions for forming species’ characteristics are carried in DNA. All cells in an organism have the same genetic content, but the genes used (expressed) by the cell may be regulated in different ways. Not all DNA codes for a protein; some segments of DNA are involved in regulatory or structural functions, and some have no as-yet known function. (HS-LS3-1)"
-HS-LS3-2,Disciplinary Core Ideas,"In sexual reproduction, chromosomes can sometimes swap sections during the process of meiosis (cell division), thereby creating new genetic combinations and thus more genetic variation. Although DNA replication is tightly regulated and remarkably accurate, errors do occur and result in mutations, which are also a source of genetic variation. Environmental factors can also cause mutations in genes, and viable mutations are inherited. (HS-LS3-2)"
-HS-LS3-2,Disciplinary Core Ideas,"Environmental factors also affect expression of traits, and hence affect the probability of occurrences of traits in a population. Thus the variation and distribution of traits observed depends on both genetic and environmental factors. (HS-LS3-2),(HS-LS3-3)"
-HS-LS3-3,Disciplinary Core Ideas,"Environmental factors also affect expression of traits, and hence affect the probability of occurrences of traits in a population. Thus the variation and distribution of traits observed depends on both genetic and environmental factors. (HS-LS3-2),(HS-LS3-3)"
-HS-LS3-1,Crosscutting Concepts,"Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects. (HS-LS3-1),(HS-LS3-2)"
-HS-LS3-2,Crosscutting Concepts,"Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects. (HS-LS3-1),(HS-LS3-2)"
-HS-LS3-3,Crosscutting Concepts,"Algebraic thinking is used to examine scientific data and predict the effect of a change in one variable on another (e.g., linear growth vs. exponential growth). (HS-LS3-3)"
-HS-LS3-3,Crosscutting Concepts,Technological advances have influenced the progress of science and science has influenced advances in technology. (HS-LS3-3)
-HS-LS3-3,Crosscutting Concepts,Science and engineering are influenced by society and society is influenced by science and engineering. (HS-LS3-3)
+3-LS3-1,Science and Engineering Practices,Analyzing and Interpreting Data
+3-LS3-1,Disciplinary Core Ideas,LS3.A:  Inheritance of Traits
+3-LS3-1,Disciplinary Core Ideas,LS3.B:  Variation of Traits
+3-LS3-1,Crosscutting Concepts,Patterns

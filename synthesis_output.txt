@@ -1,0 +1,9 @@
+3-LS3-1  Heredity: Inheritance and Variation of Traits
+
+3-LS3-1: Students who demonstrate understanding can: Analyze and interpret data to provide evidence that plants and animals have traits inherited from parents and that variation of these traits exists in a group of similar organisms. [Clarification Statement:  Patterns are the similarities and differences in traits shared between offspring and their parents, or among siblings. Emphasis is on organisms other than humans.] [ Assessment Boundary:  Assessment does not include genetic mechanisms of inheritance and prediction of traits. Assessment is limited to non-human examples. ]
+
+- Science and Engineering Practices: Analyzing and Interpreting Data
+- Disciplinary Core Ideas: LS3.A:  Inheritance of Traits
+- Disciplinary Core Ideas: LS3.B:  Variation of Traits
+- Crosscutting Concepts: Patterns
+

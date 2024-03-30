@@ -6,13 +6,15 @@ scripts_to_run = [
     "process_1_get_keys.py",
     "process_1_2_extract_standards.py",
     "process_2_extract.py",
-    "process_3_write.py"
+    "process_3_write.py",
+    "process_4_synthsize.py"
 ]
 
 # Define the target URL
 #target_url = "https://www.nextgenscience.org/dci-arrangement/hs-ls3-heredity-inheritance-and-variation-traits"
 #target_url = "https://www.nextgenscience.org/pe/hs-ps1-1-matter-and-its-interactions"
-target_url = "https://www.nextgenscience.org/dci-arrangement/hs-ls3-heredity-inheritance-and-variation-traits"
+#target_url = "https://www.nextgenscience.org/dci-arrangement/hs-ls3-heredity-inheritance-and-variation-traits"
+target_url = "https://www.nextgenscience.org/pe/3-ls3-1-heredity-inheritance-and-variation-traits"
 
 
 local_path = "/Users/daniel-new2/sites/ngss_scraper/"
